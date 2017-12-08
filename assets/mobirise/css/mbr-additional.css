@@ -28,31 +28,31 @@ body {
 }
 .display-2 {
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 2.2rem;
+  font-size: 1.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.52rem;
+  font-size: 2.88rem;
 }
 .display-4 {
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -66,19 +66,19 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -610,13 +610,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Didact Gothic', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
@@ -2322,13 +2322,14 @@ body {
   text-align: left;
 }
 .cid-qCtAKwP0Bs I {
-  color: #efe469;
+  color: #9c9969;
 }
 .cid-qCtAKwP0Bs .mbr-section-subtitle I {
   color: #232323;
 }
 .cid-qCtAKwP0Bs H2 {
   text-align: left;
+  color: #f7ed4a;
 }
 .cid-qCtAKwP0Bs P {
   color: #9c9969;
@@ -2831,13 +2832,14 @@ body {
   text-align: left;
 }
 .cid-qCp4fe4aVn I {
-  color: #efe469;
+  color: #9c9969;
 }
 .cid-qCp4fe4aVn .mbr-section-subtitle I {
   color: #232323;
 }
 .cid-qCp4fe4aVn H2 {
   text-align: left;
+  color: #f7ed4a;
 }
 .cid-qCp4fe4aVn P {
   color: #9c9969;
@@ -2902,13 +2904,14 @@ body {
   text-align: left;
 }
 .cid-qCsWKJ5mEw I {
-  color: #efe469;
+  color: #9c9969;
 }
 .cid-qCsWKJ5mEw .mbr-section-subtitle I {
   color: #232323;
 }
 .cid-qCsWKJ5mEw H2 {
   text-align: left;
+  color: #f7ed4a;
 }
 .cid-qCsWKJ5mEw P {
   color: #9c9969;
@@ -3038,13 +3041,14 @@ body {
   text-align: left;
 }
 .cid-qCtpQulWey I {
-  color: #efe469;
+  color: #9c9969;
 }
 .cid-qCtpQulWey .mbr-section-subtitle I {
   color: #232323;
 }
 .cid-qCtpQulWey H2 {
   text-align: left;
+  color: #f7ed4a;
 }
 .cid-qCtpQulWey P {
   color: #9c9969;
@@ -3083,6 +3087,73 @@ body {
 @media (max-width: 768px) {
   .cid-qD9T9a1Fp1 .image-block {
     width: 100% !important;
+  }
+}
+.cid-qDcOFSFOu3 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+@media (max-width: 767px) {
+  .cid-qDcOFSFOu3 .content {
+    text-align: center;
+  }
+  .cid-qDcOFSFOu3 .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qDcOFSFOu3 .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qDcOFSFOu3 .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qDcOFSFOu3 .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qDcOFSFOu3 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qDcOFSFOu3 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qDcOFSFOu3 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qDcOFSFOu3 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qDcOFSFOu3 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qDcOFSFOu3 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qDcOFSFOu3 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qDcOFSFOu3 .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
   }
 }
 .cid-qBSTkTGAwQ .navbar {
@@ -3535,7 +3606,7 @@ body {
   text-align: left;
 }
 .cid-qCtfKzzFvw I {
-  color: #9c9969;
+  color: #e09d56;
 }
 .cid-qCtfKzzFvw .mbr-section-subtitle I {
   color: #232323;
@@ -3939,4 +4010,41 @@ body {
 }
 .cid-qBSTkTGAwQ .navbar-collapse {
   flex-basis: auto;
+}
+.cid-qDcrD30JoM {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDcrD30JoM .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-qDcrD30JoM I {
+  color: #9c9969;
+}
+.cid-qDcrD30JoM .mbr-section-subtitle I {
+  color: #232323;
+}
+.cid-qDcrD30JoM H2 {
+  text-align: left;
+  color: #f7ed4a;
+}
+.cid-qDcrD30JoM P {
+  color: #9c9969;
+}
+.cid-qDcrD30JoM .mbr-section-subtitle P {
+  color: #232323;
+}
+.cid-qDcrPErTyK {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qDcrPErTyK .mbr-section-subtitle {
+  color: #232323;
+  text-align: left;
+}
+.cid-qDcrPErTyK H2 {
+  text-align: left;
 }
