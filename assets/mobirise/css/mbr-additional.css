@@ -1642,7 +1642,7 @@ body {
   flex-basis: auto;
 }
 .cid-qGfURPMRZn {
-  background-image: url("../../../assets/images/p1040551-2.jpg");
+  background-image: url("../../../assets/images/p1040551.jpg");
 }
 .cid-qGfURPMRZn .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -2255,7 +2255,7 @@ body {
   background: transparent !important;
 }
 .cid-qDNvK5Ys3L .image_wrapper {
-  height: 520px;
+  height: 540px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -4213,6 +4213,11 @@ body {
 }
 .cid-qBSTkTGAwQ .navbar-collapse {
   flex-basis: auto;
+}
+.cid-qGgvEKYpXM {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #b1a498;
 }
 .cid-qErOAIvLTd {
   padding-top: 60px;
