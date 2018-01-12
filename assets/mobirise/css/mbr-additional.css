@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qGm0YwkwpP .navbar {
   padding: .5rem 0;
-  background: #b9b2b2;
+  background: #b1a498;
   transition: none;
   min-height: 77px;
 }
 .cid-qGm0YwkwpP .navbar-dropdown.bg-color.transparent.opened {
-  background: #b9b2b2;
+  background: #b1a498;
 }
 .cid-qGm0YwkwpP a {
   font-style: normal;
@@ -1428,7 +1428,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qGm0YwkwpP .dropdown .dropdown-menu {
-  background: #b9b2b2;
+  background: #b1a498;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2766,7 +2766,7 @@ body {
 .cid-qGrIdIMjm9 {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/schetsen.gif");
+  background-image: url("../../../assets/images/schetsen-1.gif");
 }
 .cid-qGrIdIMjm9 h2 {
   text-align: left;
